@@ -1,5 +1,5 @@
 def main():
-    print('First DIT program')
+    print('First GIT program')
 
 
 if __name__ == '__main__':
